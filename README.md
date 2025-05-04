@@ -20,7 +20,7 @@ Timewatch is a lightweight web-based attendance tracking application for employe
 - `backend/`: PHP MVC with MySQL integration.
 - `dataBase/`: SQL script to create the database and tables
 
-- ## 🎯 Optional Bonuses Implemented
+## 🎯 Optional Bonuses Implemented
 
 - ✅ Indexes for performance (in `attendance.sql`)
 - ✅ Monthly work hour calculation (PHP logic included)
@@ -34,35 +34,35 @@ git clone "https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald"
 ```
 
 ### Install **XAMPP** or similar local development environment.
+
 ### If you would like to run with XAMPP, which is the simplest way for small projects, here is the full guide:
-- ### Step 1: Installing XAMPP:
--- Download XAMPP: Visit the official XAMPP website, this is a good link:
-https://sourceforge.net/projects/xampp/ and download the appropriate version
-for your operating system.
+#### Step 1: Installing XAMPP:
+- Download XAMPP: Visit the official XAMPP website, this is a good link:
+   https://sourceforge.net/projects/xampp/ and download the appropriate version
+   for your operating system.
 - Installation: Open the downloaded file and follow the instructions to install.
 
-- ### Step 2: Starting XAMPP:
+#### Step 2: Starting XAMPP:
 - Open the XAMPP Control Panel that you installed.
 - Start Apache and MySQL by clicking the "Start" button next to each of them.
 
-- ### Step 3: Accessing phpMyAdmin and Creating the Database:
+#### Step 3: Accessing phpMyAdmin and Creating the Database:
 Open a web browser.
 - Enter the address: http://localhost/phpmyadmin.
 - Create a new database named timewatch_db.
 - Run the provided SQL file to create the attendance table (run the query creation separately from the index creation).
 
-- ### Step 4: Copy the project files:
+#### Step 4: Copy the project files:
 Copy the AttendanceReporting_ByMalkaGreenwald folder that you cloned to the root directory of XAMPP for example: C:\xampp\htdocs\AttendanceReporting_ByMalkaGreenwald.
 
-- ### Step 5: Run the system:
+#### Step 5: Run the system:
 After completing the above steps, open your browser and go to:
-http://localhost/Timewatch_project/client/index.html
 http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 There you will see this system:
 
 Image
 
-Responsiveness:
+##### Responsiveness:
 
 Image
 
