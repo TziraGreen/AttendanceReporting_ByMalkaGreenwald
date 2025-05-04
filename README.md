@@ -139,7 +139,7 @@ git clone "https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald"
 https://sourceforge.net/projects/xampp/
 ```
  והורידו את הגרסה המתאימה למערכת ההפעלה שלכם.
-- התקנה: פתחו את הקובץ שהורדתם ופעל לפי ההוראות להתקנה.
+- התקנה: פתחו את הקובץ שהורדתם ופעלו לפי ההוראות להתקנה.
 
 #### שלב 2: הפעלת XAMPP:
 - פתחו את לוח הבקרה של XAMPP שהתקנתם.
