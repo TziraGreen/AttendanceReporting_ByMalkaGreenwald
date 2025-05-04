@@ -17,7 +17,7 @@ Timewatch is web-based attendance tracking application for employees. It allows 
 ## 📁 Project Structure
 
 - `frontend/`: HTML, CSS, JavaScript (ES Modules)
-- `backend/`: PHP MVC with MySQL integration.
+- `backend/`: PHP with MySQL integration.
 - `dataBase/`: SQL script to create the database and tables
 
 ## 🎯 Optional Bonuses Implemented
@@ -30,7 +30,7 @@ Timewatch is web-based attendance tracking application for employees. It allows 
 
 ### To clone this application, run the following command on terminal in VSCode:
 ```
-git clone "https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald"
+git clone "[https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald](https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald.git)"
 ```
 
 ### Install **XAMPP** or similar local development environment.
