@@ -1,4 +1,4 @@
-### on English:
+### on English:     .אם תגללו למטה, תראו הסבר גם בעברית
 # Timewatch - Employee Attendance Reporting System
 
 ## 📌 Description
@@ -30,7 +30,7 @@ Timewatch is web-based attendance tracking application for employees. It allows 
 
 ### To clone this application, run the following command on terminal in VSCode:
 ```
-git clone "[https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald](https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald.git)"
+git clone "https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald.git"
 ```
 
 ### Install **XAMPP** or similar local development environment.
@@ -39,8 +39,10 @@ git clone "[https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald](
 ------------------------------------------------------------------------------------------------------------------
 #### Step 1: Installing XAMPP:
 - Download XAMPP: Visit the official XAMPP website, this is a good link:
-   https://sourceforge.net/projects/xampp/ and download the appropriate version
-   for your operating system.
+    ```
+    https://sourceforge.net/projects/xampp/
+    ```
+   and download the appropriate version for your operating system.
 - Installation: Open the downloaded file and follow the instructions to install.
 
 #### Step 2: Starting XAMPP:
@@ -54,18 +56,22 @@ Open a web browser.
 - Run the provided SQL file to create the attendance table (run the query creation separately from the index creation).
 
 #### Step 4: Copy the project files:
-Copy the AttendanceReporting_ByMalkaGreenwald folder that you cloned to the root directory of XAMPP for example: C:\xampp\htdocs\AttendanceReporting_ByMalkaGreenwald.
+Copy the AttendanceReporting_ByMalkaGreenwald folder that you cloned to the root directory of XAMPP, for example: C:\xampp\htdocs\AttendanceReporting_ByMalkaGreenwald.
 
 #### Step 5: Run the system:
 After completing the above steps, open your browser and go to:
+```
 http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
+```
 There you will see this system:
 
-Image
+![image](https://github.com/user-attachments/assets/0519f4d6-127b-49d4-b604-a41c591e4da2)
 
-##### Responsiveness:
 
-Image
+##### Responsive:
+
+![image](https://github.com/user-attachments/assets/6cad6b7b-d670-4f09-834e-8bd93c2ba3a0)
+
 
 ### Step 6: Using the application:
 - Enter date and time → press Enter or Exit.
@@ -74,8 +80,13 @@ Image
 
 It could look like this, for example:
 
-Image 
-   
+![image](https://github.com/user-attachments/assets/c8d8812c-9fff-43d5-9611-4e9c94562202)
+
+
+##### Responsive:
+
+![image](https://github.com/user-attachments/assets/5cdb8ec2-72ca-4e8b-b9a7-00be140f9e77)
+
 
 ## 🤝 Author
 
@@ -86,7 +97,7 @@ Built by [Malka Greenwald].
 ### בעברית:
 
 
-# Timewatch - מערכת דיווח נוכחות עובדים
+# מערכת דיווח נוכחות עובדים - Timewatch
 
 ## 📌 תיאור
 
@@ -149,11 +160,13 @@ http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 ```
 שם תראה את המערכת הזו:
 
-תמונה
+![image](https://github.com/user-attachments/assets/9a0ae8ef-b9bd-4855-94bd-46f5f4b69cbe)
+
 
 ##### רספונסיביות:
 
-תמונה
+![image](https://github.com/user-attachments/assets/19bb4fb3-6ec8-4c2d-a277-76b86a27d982)
+
 
 ### שלב 6: שימוש ביישום:
 - הזן תאריך ושעה → לחץ על Enter או Exit.
@@ -162,7 +175,12 @@ http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 
 זה אמור להיראות לדוגמא כך לאחר שהזנת כמה זמני כניסה ויציאה או לאחר שבחרת בהצגת סך שעות העבודה עבור חודש מסוים:
 
-תמונה
+![image](https://github.com/user-attachments/assets/aef5d13e-e61b-4949-8a52-c8a7c7cea91a)
+
+
+##### רספונסיבי:
+
+![image](https://github.com/user-attachments/assets/07590ad6-cee2-4666-81b2-e0ab6a4d16a1)
 
 ## 🤝 מחבר
 
