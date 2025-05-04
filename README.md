@@ -1,5 +1,5 @@
-on English:
-# Timewatch - Simple Employee Attendance Reporting System
+### on English:
+# Timewatch - Employee Attendance Reporting System
 
 ## 📌 Description
 
@@ -20,24 +20,72 @@ Timewatch is a lightweight web-based attendance tracking application for employe
 - `backend/`: PHP MVC with MySQL integration.
 - `dataBase/`: SQL script to create the database and tables
 
-## 🛠️ Installation & Setup
-
-1. Install **XAMPP** or similar local development environment.
-2. Clone or download this repository.
-3. Move the project folder to `htdocs` directory in XAMPP.
-4. Import the database:
-   - Open **phpMyAdmin**.
-   - Create a database named `timewatch_db`.
-   - Import the provided `attendance.sql` file.
-5. Start **Apache** and **MySQL** from the XAMPP control panel.
-6. Access the project at:  
-   `http://localhost/[your-folder]/frontend/index.html`
-
-## 🎯 Optional Bonuses Implemented
+- ## 🎯 Optional Bonuses Implemented
 
 - ✅ Indexes for performance (in `attendance.sql`)
 - ✅ Monthly work hour calculation (PHP logic included)
 - ✅ Overlap detection for reports
+
+## 🛠️ Installation & Setup
+
+1. ### To clone this application, run the following command on terminal in VSCode:
+```
+git clone "https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald"
+```
+
+2. ### Install **XAMPP** or similar local development environment.
+   - #### If you would like to run with XAMPP, which is the simplest way for small projects, here is the full guide:
+   - ### Step 1: Installing XAMPP:
+- Download XAMPP: Visit the official XAMPP website, this is a good link:
+https://sourceforge.net/projects/xampp/ and download the appropriate version
+for your operating system.
+- Installation: Open the downloaded file and follow the instructions to install.
+
+- ### Step 2: Starting XAMPP:
+- Open the XAMPP Control Panel that you installed.
+- Start Apache and MySQL by clicking the "Start" button next to each of them.
+
+- ### Step 3: Accessing phpMyAdmin and Creating the Database:
+Open a web browser.
+- Enter the address: http://localhost/phpmyadmin.
+- Create a new database named timewatch_db.
+- Run the provided SQL file to create the attendance table (run the query creation separately from the index creation).
+
+- ### Step 4: Copy the project files:
+Copy the AttendanceReporting_ByMalkaGreenwald folder that you cloned to the root directory of XAMPP for example: C:\xampp\htdocs\AttendanceReporting_ByMalkaGreenwald.
+
+- ### Step 5: Run the system:
+After completing the above steps, open your browser and go to:
+http://localhost/Timewatch_project/client/index.html
+http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
+There you will see this system:
+
+Image
+
+Responsiveness:
+
+Image
+
+### Step 6: Using the application:
+- Enter date and time → press Enter or Exit.
+- The table of the last 20 reports is automatically updated.
+- Select a month in the monthly input to display the total monthly working hours for a particular month of the year.
+
+It could look like this for example:
+
+Image 
+   
+
+
+
+
+
+
+
+
+5. Start **Apache** and **MySQL** from the XAMPP control panel.
+6. Access the project at:  
+   `http://localhost/[your-folder]/frontend/index.html`
 
 ## 🤝 Author
 
@@ -45,13 +93,13 @@ Built by [Malka Greenwald].
 
 ---
 
-בעברית:
+### בעברית:
 
-# Timewatch - מערכת דיווח נוכחות פשוטה
+# מערכת דיווח נוכחות עובד - Timewatch
 
 ## 📌 תיאור
 
-מערכת אינטרנטית פשוטה לדיווח כניסה ויציאה של עובדים. מאפשרת להזין תאריך ושעה ידנית, לצפות בדיווחים האחרונים, לחשב שעות חודשיות ולוודא שאין כפילויות בזמן.
+מערכת אינטרנטית לדיווח כניסה ויציאה של עובדים. מאפשרת להזין תאריך ושעה ידנית, לצפות בדיווחים האחרונים, לחשב שעות חודשיות ולוודא שאין כפילויות בזמן.
 
 ## 🚀 תכונות
 
@@ -67,22 +115,26 @@ Built by [Malka Greenwald].
 - `frontend/`: קבצי HTML, CSS, JavaScript
 - `backend/`: צד שרת ב-PHP + MySQL
 - `database/`: קובץ SQL ליצירת הטבלה
+- ## 🎯 בונוסים שבוצעו
+
+- ✅ יצירת אינדקסים
+- ✅ חישוב שעות עבודה חודשיות
+- ✅ זיהוי דיווחים חופפים
 
 ## 🛠️ התקנה והרצה
 
+
 1. התקן את **XAMPP** או סביבה דומה.
-2. העתק את תיקיית הפרויקט לתיקיית `htdocs`.
-3. צור מסד נתונים בשם `timewatch_db` דרך **phpMyAdmin**.
-4. יבא את הקובץ `attendance.sql`.
-5. הפעל את **Apache** ו-**MySQL** בלוח הבקרה של XAMPP.
-6. היכנס לפרויקט:  
+2. 
+   - באם אתה בוחר להריץ בסביבת XAMPP:
+3. העתק את תיקיית הפרויקט לתיקיית `htdocs`.
+4. צור מסד נתונים בשם `timewatch_db` דרך **phpMyAdmin**.
+5. יבא את הקובץ `attendance.sql`.
+6. הפעל את **Apache** ו-**MySQL** בלוח הבקרה של XAMPP.
+7. היכנס לפרויקט:  
    `http://localhost/[שם-התיקייה]/frontend/index.html`
 
-## 🎯 בונוסים שבוצעו
 
-- ✅ אינדקסים במסד הנתונים
-- ✅ חישוב שעות חודשיות (צד שרת)
-- ✅ מניעת דיווחים חופפים
 
 ## 🤝 נבנה על ידי
 
