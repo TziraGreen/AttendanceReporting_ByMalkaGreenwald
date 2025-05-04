@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="he">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>מערכת נוכחות</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>דיווח נוכחות - Timewatch</h1>
+    <div class="grid-container">
+      <div class="form-section">
+        <label for="date">תאריך:</label>
+        <input type="date" id="date" />
+        
+        <label for="time">שעה:</label>
+        <input type="time" id="time" />
+
+        <button id="inButton">
+          <i class="fa-solid fa-arrow-right-to-bracket"></i> כניסה
+        </button>
+        <button id="outButton">
+          <i class="fa-solid fa-arrow-right-from-bracket"></i> יציאה
+        </button>
+
+        <h3>חישוב שעות עבודה חודשיות</h3>
+        <h5>(רק על זמנים בהם עידכנת גם כניסה וגם יציאה)</h5>
+        <input type="month" id="monthInput" />
+        <button id="calculateButton">
+          <i class="fa-solid fa-calculator"></i> חשב שעות
+        </button>
+        <div id="result"></div>
+      </div>
+
+      <div class="table-section">
+        <h3>דיווחי נוכחות אחרונים</h3>
+        <table id="reports">
+          <thead>
+            <tr>
+              <th>סוג</th>
+              <th>תאריך</th>
+              <th>שעה</th>
+              <th>נוצר ב</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+    </div>
+  </div>
+  <script type="module" src="js/main.js"></script>
+</body>
+
+</html>
