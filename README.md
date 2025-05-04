@@ -149,13 +149,13 @@ https://sourceforge.net/projects/xampp/
 פתחו דפדפן אינטרנט.
 - הזינו את הכתובת: http://localhost/phpmyadmin.
 - צרו מסד נתונים חדש בשם timewatch_db.
-- הפעל את קובץ ה-SQL שסופק כדי ליצור את טבלת הנוכחות (הפעל את יצירת השאילתה בנפרד מיצירת האינדקס).
+- הפעילו את קובץ ה-SQL שסופק כדי ליצור את טבלת הנוכחות (הפעל את יצירת השאילתה בנפרד מיצירת האינדקס).
 
 #### שלב 4: העתק את קבצי הפרויקט:
-העתק את התיקייה AttendanceReporting_ByMalkaGreenwald ששיבטת - לספריית השורש של XAMPP לדוגמה: C:\xampp\htdocs\AttendanceReporting_ByMalkaGreenwald.
+העתיקו את התיקייה AttendanceReporting_ByMalkaGreenwald ששיבטתם - לספריית השורש של XAMPP לדוגמה: C:\xampp\htdocs\AttendanceReporting_ByMalkaGreenwald.
 
 #### שלב 5: הפעל את המערכת:
-לאחר השלמת השלבים לעיל, פתח את הדפדפן שלך ועבור אל:
+לאחר השלמת השלבים לעיל, פתחו את הדפדפן ועברו אל:
 ```
 http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 ```
@@ -170,9 +170,9 @@ http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 
 
 ### שלב 6: שימוש ביישום:
-- הזן תאריך ושעה → לחץ על Enter או Exit.
+- הזינו תאריך ושעה → לחץ על Enter או Exit.
 - טבלת 20 הדוחות האחרונים מתעדכנת אוטומטית.
-- בחר חודש בקלט החודשי כדי להציג את סך שעות העבודה החודשיות עבור חודש מסוים בשנה.
+- בחרו חודש בקלט החודשי כדי להציג את סך שעות העבודה החודשיות עבור חודש מסוים בשנה.
 
 זה אמור להיראות לדוגמא כך לאחר שהזנת כמה זמני כניסה ויציאה או לאחר שבחרת בהצגת סך שעות העבודה עבור חודש מסוים:
 
