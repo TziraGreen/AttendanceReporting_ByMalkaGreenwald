@@ -28,15 +28,15 @@ Timewatch is a lightweight web-based attendance tracking application for employe
 
 ## 🛠️ Installation & Setup
 
-1. ### To clone this application, run the following command on terminal in VSCode:
+### To clone this application, run the following command on terminal in VSCode:
 ```
 git clone "https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald"
 ```
 
-2. ### Install **XAMPP** or similar local development environment.
-   - #### If you would like to run with XAMPP, which is the simplest way for small projects, here is the full guide:
-   - ### Step 1: Installing XAMPP:
-- Download XAMPP: Visit the official XAMPP website, this is a good link:
+### Install **XAMPP** or similar local development environment.
+### If you would like to run with XAMPP, which is the simplest way for small projects, here is the full guide:
+- ### Step 1: Installing XAMPP:
+-- Download XAMPP: Visit the official XAMPP website, this is a good link:
 https://sourceforge.net/projects/xampp/ and download the appropriate version
 for your operating system.
 - Installation: Open the downloaded file and follow the instructions to install.
