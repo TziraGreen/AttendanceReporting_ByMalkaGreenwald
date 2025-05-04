@@ -159,7 +159,7 @@ https://sourceforge.net/projects/xampp/
 ```
 http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 ```
-שם תראה את המערכת הזו:
+שם תראו את המערכת הזו:
 
 ![image](https://github.com/user-attachments/assets/9a0ae8ef-b9bd-4855-94bd-46f5f4b69cbe)
 
@@ -174,7 +174,7 @@ http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 - טבלת 20 הדוחות האחרונים מתעדכנת אוטומטית.
 - בחרו חודש בקלט החודשי כדי להציג את סך שעות העבודה החודשיות עבור חודש מסוים בשנה.
 
-זה אמור להיראות לדוגמא כך לאחר שהזנת כמה זמני כניסה ויציאה או לאחר שבחרת בהצגת סך שעות העבודה עבור חודש מסוים:
+זה אמור להיראות לדוגמא כך לאחר שהזנתם כמה זמני כניסה ויציאה או לאחר שבחרתם בהצגת סך שעות העבודה עבור חודש מסוים:
 
 ![image](https://github.com/user-attachments/assets/aef5d13e-e61b-4949-8a52-c8a7c7cea91a)
 
