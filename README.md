@@ -33,12 +33,6 @@ Timewatch is a lightweight web-based attendance tracking application for employe
 6. Access the project at:  
    `http://localhost/[your-folder]/frontend/index.html`
 
-## 🧪 Tested on:
-
-- Chrome, Firefox
-- PHP 8+
-- MySQL 5.7+
-
 ## 🎯 Optional Bonuses Implemented
 
 - ✅ Indexes for performance (in `attendance.sql`)
@@ -83,12 +77,6 @@ Built by [Malka Greenwald].
 5. הפעל את **Apache** ו-**MySQL** בלוח הבקרה של XAMPP.
 6. היכנס לפרויקט:  
    `http://localhost/[שם-התיקייה]/frontend/index.html`
-
-## 🧪 נבדק על:
-
-- דפדפנים: Chrome, Firefox
-- PHP 8+
-- MySQL 5.7+
 
 ## 🎯 בונוסים שבוצעו
 
