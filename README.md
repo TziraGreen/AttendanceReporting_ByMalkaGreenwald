@@ -1,4 +1,4 @@
-### on English:     .אם תגללו למטה, תראו הסבר גם בעברית
+### on English:                                                                .אם תגללו למטה, תראו הסבר גם בעברית
 # Timewatch - Employee Attendance Reporting System
 
 ## 📌 Description
@@ -78,7 +78,7 @@ There you will see this system:
 - The table of the last 20 reports is automatically updated.
 - Select a month in the monthly input to display the total monthly working hours for a particular month of the year.
 
-It could look like this, for example:
+It should look like this for exampleת after you have entered several check-in and check-out times or after you have chosen to display total working hours for a particular month:
 
 ![image](https://github.com/user-attachments/assets/c8d8812c-9fff-43d5-9611-4e9c94562202)
 
@@ -118,11 +118,11 @@ Built by [Malka Greenwald].
 - `backend/`: צד שרת ב-PHP + MySQL
 - `database/`: קובץ SQL ליצירת הטבלה
 
-- ## 🎯 בונוסים שבוצעו
+- ## 🎯 בונוסים שבוצעו 
 
-- ✅ יצירת אינדקסים
-- ✅ חישוב שעות עבודה חודשיות
-- ✅ זיהוי דיווחים חופפים
+- ✅ יצירת אינדקסים 
+- ✅ חישוב שעות עבודה חודשיות 
+- ✅ זיהוי דיווחים חופפים 
 
 ## 🛠️ התקנה והגדרה
 
@@ -163,7 +163,7 @@ http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 ![image](https://github.com/user-attachments/assets/9a0ae8ef-b9bd-4855-94bd-46f5f4b69cbe)
 
 
-##### רספונסיביות:
+##### ברספונסיביות:
 
 ![image](https://github.com/user-attachments/assets/19bb4fb3-6ec8-4c2d-a277-76b86a27d982)
 
