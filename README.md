@@ -117,12 +117,10 @@ Built by [Malka Greenwald].
 - `frontend/`: קבצי HTML, CSS, JavaScript
 - `backend/`: צד שרת ב-PHP + MySQL
 - `database/`: קובץ SQL ליצירת הטבלה
-
-- ## 🎯 בונוסים שבוצעו 
-
-- ✅ יצירת אינדקסים 
-- ✅ חישוב שעות עבודה חודשיות 
-- ✅ זיהוי דיווחים חופפים 
+## 🎯 בונוסים שבוצעו
+- ✅ יצירת אינדקסים
+- ✅ חישוב שעות עבודה חודשיות
+- ✅ זיהוי דיווחים חופפים
 
 ## 🛠️ התקנה והגדרה
 
@@ -136,8 +134,11 @@ git clone "https://github.com/TziraGreen/AttendanceReporting_ByMalkaGreenwald"
 ### אם תרצו להריץ עם XAMPP, שהיא הדרך הפשוטה ביותר עבור פרויקטים קטנים, הנה המדריך המלא:
 
 #### שלב 1: התקנת XAMPP:
-- הורידו את XAMPP: בקרו באתר הרשמי של XAMPP, זה קישור טוב:
-https://sourceforge.net/projects/xampp/ והורידו את הגרסה המתאימה למערכת ההפעלה שלכם.
+- הורידו את XAMPP: בקרו באתר הרשמי של XAMPP, זה קישור טוב
+```
+https://sourceforge.net/projects/xampp/
+```
+ והורידו את הגרסה המתאימה למערכת ההפעלה שלכם.
 - התקנה: פתחו את הקובץ שהורדתם ופעל לפי ההוראות להתקנה.
 
 #### שלב 2: הפעלת XAMPP:
@@ -163,7 +164,7 @@ http://localhost/AttendanceReporting_ByMalkaGreenwald/frontend/
 ![image](https://github.com/user-attachments/assets/9a0ae8ef-b9bd-4855-94bd-46f5f4b69cbe)
 
 
-##### ברספונסיביות:
+##### רספונסיבי:
 
 ![image](https://github.com/user-attachments/assets/19bb4fb3-6ec8-4c2d-a277-76b86a27d982)
 
